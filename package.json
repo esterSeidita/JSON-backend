@@ -1,0 +1,18 @@
+{
+  "name": "edgemony-backend",
+  "description": "Fake REST API backend for the academic projects related to the Edgemony course.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": "git@github.com:moebiusmania/edgemony-course-backend.git",
+  "author": "Salvatore Laisa <moebiusmania@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "0.17.0"
+  }
+}
