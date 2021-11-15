@@ -1,4 +1,4 @@
-# edgemoy-course-backend
+# edgemony-course-backend
 Fake REST API backend for the academic projects related to the Edgemony course.
 
 ### 1. Requirements
