@@ -43,7 +43,7 @@
       "expires": "2021-11-29"
     }
   ],
-  "friend": [
+  "friends": [
     { "name": "Chandler", "photo": "https://randomuser.me/api/portraits/lego/5.jpg" },
     { "name": "Pippo", "photo": "https://randomuser.me/api/portraits/lego/7.jpg" },
     { "name": "Geralt", "photo": "https://randomuser.me/api/portraits/lego/8.jpg" },
