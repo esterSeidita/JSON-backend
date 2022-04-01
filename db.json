@@ -44,14 +44,46 @@
     }
   ],
   "friends": [
-    { "id": 0, "name": "Chandler", "photo": "https://randomuser.me/api/portraits/lego/5.jpg" },
-    { "id": 1, "name": "Pippo", "photo": "https://randomuser.me/api/portraits/lego/7.jpg" },
-    { "id": 2, "name": "Geralt", "photo": "https://randomuser.me/api/portraits/lego/8.jpg" },
-    { "id": 3, "name": "Cortana", "photo": "https://randomuser.me/api/portraits/lego/1.jpg" },
-    { "id": 4, "name": "Jack", "photo": "https://randomuser.me/api/portraits/lego/2.jpg" },
-    { "id": 5, "name": "Obi Wan", "photo": "https://randomuser.me/api/portraits/lego/3.jpg" },
-    { "id": 6, "name": "Rose", "photo": "https://randomuser.me/api/portraits/lego/4.jpg" },
-    { "id": 7, "name": "Thor", "photo": "https://randomuser.me/api/portraits/lego/6.jpg" }
+    {
+      "id": 0,
+      "name": "Chandler",
+      "photo": "https://randomuser.me/api/portraits/lego/5.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Pippo",
+      "photo": "https://randomuser.me/api/portraits/lego/7.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Geralt",
+      "photo": "https://randomuser.me/api/portraits/lego/8.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cortana",
+      "photo": "https://randomuser.me/api/portraits/lego/1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jack",
+      "photo": "https://randomuser.me/api/portraits/lego/2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Obi Wan",
+      "photo": "https://randomuser.me/api/portraits/lego/3.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Rose",
+      "photo": "https://randomuser.me/api/portraits/lego/4.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Thor",
+      "photo": "https://randomuser.me/api/portraits/lego/6.jpg"
+    }
   ],
   "posts": [
     {
@@ -59,8 +91,7 @@
       "author": "Myself",
       "text": "Oggi ho mangiato robba buona",
       "date": "2021-12-15T08:20:35.433Z",
-      "photo":
-        "https://images.unsplash.com/photo-1639512398860-be15f48100ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1024&q=80"
+      "photo": "https://images.unsplash.com/photo-1639512398860-be15f48100ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1024&q=80"
     },
     {
       "id": 1,
@@ -70,11 +101,71 @@
     }
   ],
   "messages": [
-    { "id": 0, "text": "lorem ipsum", "date": "2021-12-15T08:20:35.433Z", "sender": "Pippo" },
-    { "id": 1, "text": "This cave is not a natural formation!", "date": "2021-12-14T08:20:35.433Z", "sender": "Cortana" },
-    { "id": 2, "text": "Use the force Luke", "date": "2021-12-13T08:20:35.433Z", "sender": "Obi Wan" },
-    { "id": 3, "text": "you are not worthy", "date": "2021-12-14T08:20:35.433Z", "sender": "Thor" },
-    { "id": 4, "text": "yoooo", "date": "2021-12-14T08:20:35.433Z", "sender": "Un rapper" },
-    { "id": 5, "text": "sir, finish the fight", "date": "2021-12-14T08:20:35.433Z", "sender": "Mater Chief" }
+    {
+      "id": 0,
+      "text": "lorem ipsum",
+      "date": "2021-12-15T08:20:35.433Z",
+      "sender": "Pippo"
+    },
+    {
+      "id": 1,
+      "text": "This cave is not a natural formation!",
+      "date": "2021-12-14T08:20:35.433Z",
+      "sender": "Cortana"
+    },
+    {
+      "id": 2,
+      "text": "Use the force Luke",
+      "date": "2021-12-13T08:20:35.433Z",
+      "sender": "Obi Wan"
+    },
+    {
+      "id": 3,
+      "text": "you are not worthy",
+      "date": "2021-12-14T08:20:35.433Z",
+      "sender": "Thor"
+    },
+    {
+      "id": 4,
+      "text": "yoooo",
+      "date": "2021-12-14T08:20:35.433Z",
+      "sender": "Un rapper"
+    },
+    {
+      "id": 5,
+      "text": "sir, finish the fight",
+      "date": "2021-12-14T08:20:35.433Z",
+      "sender": "Mater Chief"
+    }
+  ],
+  "gallery": [
+    {
+      "description": "bla bla bla",
+      "url": "https://picsum.photos/id/10/367/267"
+    },
+    {
+      "description": "bla bla bla",
+      "url": "https://picsum.photos/id/1003/367/267"
+    },
+    {
+      "description": "bla bla bla",
+      "url": "https://picsum.photos/id/1024/367/267"
+    },
+    {
+      "description": "bla bla bla",
+      "url": "https://picsum.photos/id/1025/367/267"
+    },
+    {
+      "description": "bla bla bla",
+      "url": "https://picsum.photos/id/104/367/267"
+    },
+    {
+      "description": "bla bla bla",
+      "url": "https://picsum.photos/id/1055/367/267"
+    },
+    {
+      "description": "bla bla bla",
+      "url": "https://picsum.photos/id/1065/367/267"
+    }
   ]
 }
