@@ -1,18 +1,32 @@
 # edgemony-course-backend
+
 Fake REST API backend for the academic projects related to the Edgemony course.
 
 ### 1. Requirements
+
 A [NodeJS](https://nodejs.org/en/) version from 12 to current most recent active should be fine.
 
 ### 2. Install & how to use
-* Clone this repo and `cd` on the folder
-* Install dependencies with `npm install`.
-* Start the mock server with ```npm start``` and open the browser to `localhost:3004/movies` to get see the data
+
+- Clone this repo and `cd` on the folder
+- Install dependencies with `npm install`.
+- Start the mock server with `npm start` and open the browser to `localhost:3004/movies` to get see the data
+
+### 3. Fake Auth
+
+This repo includes the `json-server-auth` package, whicj allows to simulate the authentication flows.
+
+- users can ben created and managed in the `users` key of the `db.json` file
+- login request can be done as `POST`s at the `/login` endpoint using `{ "email": "...", "password": "..." }` as body
+- existing routes can be "protected" by prepending a permission code, for instance `/440/todos` rejects any request without a valid JWT token included
+
+more details can be found in the [module documentation](https://github.com/jeremyben/json-server-auth).
 
 ### 3. License
+
 MIT License
 
-Copyright (c) 2021 Salvatore Laisa
+Copyright (c) 2022 Salvatore Laisa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
