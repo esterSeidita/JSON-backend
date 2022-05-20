@@ -22,11 +22,15 @@ This repo includes the `json-server-auth` package, whicj allows to simulate the 
 
 more details can be found in the [module documentation](https://github.com/jeremyben/json-server-auth).
 
+### Auth Flow Frontend <--> Backend
+
+![_img/auth-flow.png](_img/auth-flow.png)
+
 ### 3. License
 
 MIT License
 
-Copyright (c) 2022 Salvatore Laisa
+Copyright (c) 2022 Edgemony
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
