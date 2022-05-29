@@ -4,6 +4,26 @@
       "email": "user@mail.com",
       "password": "$2a$10$ilr5RAveyOdQg3GSfDkec.0ekebu8VUwyb5feEAlFXZn9bSrNVcYa",
       "id": 1
+    },
+    {
+      "email": "pippo@edgeflix.com",
+      "password": "$2a$10$3/l8t5/1/g356qozt1yRJeh0qo7r/Y4aOnk4QtdfD4TrYrKa0kc8q",
+      "id": 2
+    },
+    {
+      "email": "pluto@edgeflix.com",
+      "password": "$2a$10$qflZyTA0ttXmuuHdMbPXieedQi/6LeavDVVeGgtIYhZCVuMcSnClK",
+      "id": 3
+    },
+    {
+      "email": "mickey@edgify.com",
+      "password": "$2a$10$coLC8sY0n96mL5jtxbwZAe4Quy3ZvER.MbpiY66Uz4tVkjMHfd1FK",
+      "id": 4
+    },
+    {
+      "email": "donald@edgify.com",
+      "password": "$2a$10$mk0kYR3mkOWzI/eh0eUfL.rpArDVdTVhZzhVVjv5V4NrBTsTFPaC2",
+      "id": 5
     }
   ],
   "movies": [
@@ -12,11 +32,7 @@
       "title": "Deadpool",
       "poster": "https://lumiere-a.akamaihd.net/v1/images/image_8c4aa72b.jpeg",
       "year": 2016,
-      "genres": [
-        "action",
-        "comedy",
-        "cinecomic"
-      ],
+      "genres": ["action", "comedy", "cinecomic"],
       "description": "Deadpool is a 2016 American superhero film based on the Marvel Comics character of the same name. Distributed by 20th Century Fox, it is the eighth film in the X-Men film series."
     },
     {
@@ -24,11 +40,7 @@
       "title": "Big trouble in Little China",
       "poster": "https://upload.wikimedia.org/wikipedia/en/7/76/Big_Trouble_in_Little_China_Film_Poster.jpg",
       "year": 1986,
-      "genres": [
-        "action",
-        "comedy",
-        "80s"
-      ],
+      "genres": ["action", "comedy", "80s"],
       "description": "Big Trouble in Little China (also known as John Carpenter's Big Trouble in Little China) is a 1986 American fantasy martial arts comedy film directed by John Carpenter and starring Kurt Russell, Kim Cattrall, Dennis Dun and James Hong."
     }
   ],
@@ -100,21 +112,7 @@
       "photo": "https://randomuser.me/api/portraits/lego/6.jpg"
     }
   ],
-  "posts": [
-    {
-      "id": 0,
-      "author": "Myself",
-      "text": "Oggi ho mangiato robba buona",
-      "date": "2021-12-15T08:20:35.433Z",
-      "photo": "https://images.unsplash.com/photo-1639512398860-be15f48100ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1024&q=80"
-    },
-    {
-      "id": 1,
-      "author": "User",
-      "text": "Sto imparando React",
-      "date": "2021-12-14T08:20:35.433Z"
-    }
-  ],
+  "posts": [],
   "messages": [
     {
       "id": 0,
@@ -127,30 +125,6 @@
       "text": "This cave is not a natural formation!",
       "date": "2021-12-14T08:20:35.433Z",
       "sender": "Cortana"
-    },
-    {
-      "id": 2,
-      "text": "Use the force Luke",
-      "date": "2021-12-13T08:20:35.433Z",
-      "sender": "Obi Wan"
-    },
-    {
-      "id": 3,
-      "text": "you are not worthy",
-      "date": "2021-12-14T08:20:35.433Z",
-      "sender": "Thor"
-    },
-    {
-      "id": 4,
-      "text": "yoooo",
-      "date": "2021-12-14T08:20:35.433Z",
-      "sender": "Un rapper"
-    },
-    {
-      "id": 5,
-      "text": "sir, finish the fight",
-      "date": "2021-12-14T08:20:35.433Z",
-      "sender": "Mater Chief"
     }
   ],
   "gallery": [
@@ -166,5 +140,147 @@
       "description": "vola vola volaaaa",
       "url": "https://picsum.photos/id/1024/367/267"
     }
-  ]
+  ],
+  "series": [
+    {
+      "id": 1,
+      "title": "Stranger Things",
+      "seasons": 4,
+      "poster": "https://static.posters.cz/image/750/stranger-things-i106047.jpg",
+      "year": 2022,
+      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+      "genres": ["scifi", "nostalgic"],
+      "new": true,
+      "favorite": false,
+      "rating": 5,
+      "users": [2, 3],
+      "cast": ["Wynona Rider", "Millie Bobby Brown", "David Harbour"]
+    },
+    {
+      "id": 2,
+      "title": "Better call Saul",
+      "seasons": 6,
+      "poster": "https://images.everyeye.it/img-cover/better-call-saul-stagione-1-v2-26598-320x450.jpg",
+      "year": 2022,
+      "description": "This Emmy-nominated prequel to "Breaking Bad" follows small-time attorney Jimmy McGill as he transforms into morally challenged lawyer Saul Goodman.",
+      "genres": ["crime", "drama"],
+      "new": true,
+      "favorite": false,
+      "rating": 3,
+      "users": [2],
+      "cast": ["Bob Odenkirk", "Jonathan Banks", "Rhea Seehorn"]
+    },
+    {
+      "id": 3,
+      "title": "Ash vs Evil Dead",
+      "seasons": 3,
+      "poster": "https://m.media-amazon.com/images/I/91rrud8LHZL._SL1500_.jpg",
+      "year": 2018,
+      "description": "Kelly and Pablo seek help with Ash's demonic diagnosis, but not all is what it seems. Ruby gives the increasingly incredulous Amanda a pep talk.",
+      "genres": ["horror", "comedy"],
+      "new": false,
+      "favorite": false,
+      "rating": 4,
+      "users": [3],
+      "cast": ["Bruce Campbell", "Lucy Lawless", "Ray Santiago"]
+    },
+    {
+      "id": 4,
+      "title": "The Umbrella Academy",
+      "seasons": 3,
+      "poster": "https://mr.comingsoon.it/imgdb/serietv/serie/1803/1803.jpg",
+      "year": 2020,
+      "description": "Years after they rose to fame as young crime-fighting superheroes, the estranged Hargreeves siblings come together to mark their father's death.",
+      "genres": ["superheroes", "scifi"],
+      "new": false,
+      "favorite": false,
+      "rating": 5,
+      "users": [2],
+      "cast": ["Elliot Page", "Tom Hopper", "David Castaneda"]
+    },
+    {
+      "id": 5,
+      "title": "Cobra Kai",
+      "seasons": 4,
+      "poster": "https://mr.comingsoon.it/imgdb/serietv/serie/1778/1778.jpg",
+      "year": 2021,
+      "description": "Drinking hard and living in the shadow of his successful former rival, Daniel, Johnny hits rock bottom and decides to reopen the Cobra Kai karate dojo.",
+      "genres": ["fighting", "drama"],
+      "new": false,
+      "favorite": false,
+      "rating": 5,
+      "users": [3],
+      "cast": ["Elliot Page", "Tom Hopper", "David Castaneda"]
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "cover": "",
+      "year": 1982,
+      "length": 42,
+      "genres": [
+        "pop", "80s"
+      ],
+      "songs": [
+        "Wanna be starting something",
+        "Baby be mine",
+        "The girl is mine",
+        "Thriller",
+        "Beat it",
+        "Billie Jean",
+        "Human nature",
+        "P.Y.T.",
+        "The lady in my life"
+      ],
+      "new": false,
+      "favorite": true,
+      "rating": 5,
+      "users": [4,5],
+      "featuring": [
+        "Toto",
+        "Paul McCartney"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Greatest Hits II",
+      "artist": "Queen",
+      "cover": "",
+      "year": 1991,
+      "length": 75,
+      "genres": [
+        "rock", "collection"
+      ],
+      "songs": [
+        "A kind of magic",
+        "Under Pressure",
+        "Radio ga ga",
+        "I want it all",
+        "I want to break free",
+        "Innuendo",
+        "It's a hard life",
+        "Breakthru",
+        "Who wants to live forever",
+        "Headlong",
+        "The miracle",
+        "I'm going slightly mad",
+        "The invisible man",
+        "Hammer to fall",
+        "Friends will be friends",
+        "The show must go on",
+        "One vision"
+      ],
+      "new": false,
+      "favorite": false,
+      "rating": 5,
+      "users": [4],
+      "featuring": [
+        "George Michal"
+      ]
+    }
+  ],
+  "playlist": []
 }
