@@ -162,7 +162,7 @@
       "seasons": 6,
       "poster": "https://images.everyeye.it/img-cover/better-call-saul-stagione-1-v2-26598-320x450.jpg",
       "year": 2022,
-      "description": "This Emmy-nominated prequel to "Breaking Bad" follows small-time attorney Jimmy McGill as he transforms into morally challenged lawyer Saul Goodman.",
+      "description": "This Emmy-nominated prequel to \"Breaking Bad\" follows small-time attorney Jimmy McGill as he transforms into morally challenged lawyer Saul Goodman.",
       "genres": ["crime", "drama"],
       "new": true,
       "favorite": false,
@@ -221,9 +221,7 @@
       "cover": "",
       "year": 1982,
       "length": 42,
-      "genres": [
-        "pop", "80s"
-      ],
+      "genres": ["pop", "80s"],
       "songs": [
         "Wanna be starting something",
         "Baby be mine",
@@ -238,11 +236,8 @@
       "new": false,
       "favorite": true,
       "rating": 5,
-      "users": [4,5],
-      "featuring": [
-        "Toto",
-        "Paul McCartney"
-      ]
+      "users": [4, 5],
+      "featuring": ["Toto", "Paul McCartney"]
     },
     {
       "id": 2,
@@ -251,9 +246,7 @@
       "cover": "",
       "year": 1991,
       "length": 75,
-      "genres": [
-        "rock", "collection"
-      ],
+      "genres": ["rock", "collection"],
       "songs": [
         "A kind of magic",
         "Under Pressure",
@@ -277,9 +270,7 @@
       "favorite": false,
       "rating": 5,
       "users": [4],
-      "featuring": [
-        "George Michal"
-      ]
+      "featuring": ["George Michal"]
     }
   ],
   "playlist": []
