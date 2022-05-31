@@ -218,7 +218,7 @@
       "id": 1,
       "title": "Thriller",
       "artist": "Michael Jackson",
-      "cover": "",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/09/Thriller_25_cover.jpg",
       "year": 1982,
       "length": 42,
       "genres": ["pop", "80s"],
@@ -243,7 +243,7 @@
       "id": 2,
       "title": "Greatest Hits II",
       "artist": "Queen",
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/I/71JuNbWD2bL._AC_SL1400_.jpg",
       "year": 1991,
       "length": 75,
       "genres": ["rock", "collection"],
@@ -273,5 +273,37 @@
       "featuring": ["George Michal"]
     }
   ],
-  "playlist": []
+  "playlist": [
+    {
+      "id": 1,
+      "title": "Rock Classics",
+      "artist": "Edgify",
+      "cover": "https://i.scdn.co/image/ab67706f00000003fa8c71f4d9a74d9d3335577b",
+      "year": 2018,
+      "length": 180,
+      "genres": ["rock", "collection"],
+      "songs": [
+        "Wish you were here - Pink Floyd",
+        "Smells like teen spirit - Nirvana",
+        "Paradise city - Guns'n'Roses",
+        "Detroit rock city - KISS",
+        "Another one bites the dust - Queen",
+        "Highway to hell - AC/DC",
+        "Whola lotta love - Led Zeppelin",
+        "Creep - Radiohead",
+        "Dream on - Aereosmith",
+        "Livin on a prayer - Bon Jovi",
+        "Seven nation army - The White Stripes",
+        "Hotel California - Eagles",
+        "Tom Sawyer - Rush",
+        "Hold the line - TOTO",
+        "Paranoid - Black Sabbath"
+      ],
+      "new": false,
+      "favorite": false,
+      "rating": 5,
+      "users": [4, 5],
+      "featuring": ["Pink Floyd", "Nirvana", "Queen", "Led Zeppelin"]
+    }
+  ]
 }
