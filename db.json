@@ -215,7 +215,7 @@
   ],
   "albums": [
     {
-      "id": 1,
+      "id": "177bcb2b-811e-4e9b-adf2-e355367b98b0",
       "title": "Thriller",
       "artist": "Michael Jackson",
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/09/Thriller_25_cover.jpg",
@@ -240,7 +240,7 @@
       "featuring": ["Toto", "Paul McCartney"]
     },
     {
-      "id": 2,
+      "id": "001fe987-8537-491e-9b3e-274102141731",
       "title": "Greatest Hits II",
       "artist": "Queen",
       "cover": "https://m.media-amazon.com/images/I/71JuNbWD2bL._AC_SL1400_.jpg",
@@ -275,7 +275,7 @@
   ],
   "playlist": [
     {
-      "id": 1,
+      "id": "e3e8acaa-b455-46f2-97ce-24598f41c49e",
       "title": "Rock Classics",
       "artist": "Edgify",
       "cover": "https://i.scdn.co/image/ab67706f00000003fa8c71f4d9a74d9d3335577b",
