@@ -426,6 +426,7 @@
       "featuring": ["George Michal"]
     },
     {
+      "id": "34054908-2e08-4702-9d64-b4968c4c335e",
       "title": "The Wall",
       "artist": "Pink Floyd",
       "cover": "https://www.millerecords.it/wp-content/uploads/2016/05/4ghhzt.jpg.png",
@@ -454,6 +455,7 @@
       "featuring": ["David Gilmour", "Bob Ezrin"]
     },
     {
+      "id": "a30d235d-b0c9-49aa-a770-9d55f83db363",
       "title": "American Idiot",
       "artist": "Green Day",
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/ed/Green_Day_-_American_Idiot_album_cover.png",
@@ -482,6 +484,7 @@
       "featuring": ["Billie Joe"]
     },
     {
+      "id": "6a3cbf34-dcf7-4121-9b0d-8f4366a03906",
       "title": "Endgame",
       "artist": "Rise Against",
       "cover": "https://img.youtube.com/vi/8gX2kDsaYg0/hqdefault.jpg",
@@ -509,6 +512,7 @@
       "featuring": ["Zach Blair"]
     },
     {
+      "id": "56c0ca72-add9-4e25-94bf-e44e1cdec4c9",
       "title": "Let the World Know",
       "artist": "Dead by April",
       "cover": "https://upload.wikimedia.org/wikipedia/en/7/70/Let_The_World_Know.jpg",
@@ -537,7 +541,8 @@
       "featuring": ["Pontus Hjelm"]
     },
     {
-      "title": "",
+      "id": "24ff3c39-0645-4f30-aab7-346de3871681",
+      "title": "Sound of silence",
       "artist": "Simon & Garfunkel",
       "cover": "https://m.media-amazon.com/images/I/81H0f7e97PL._AC_SL1500_.jpg",
       "year": 1966,
