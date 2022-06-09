@@ -22,20 +22,22 @@
     {
       "username": "Mickey",
       "avatar": "https://randomuser.me/api/portraits/lego/1.jpg",
-      "email": "mickey@edgify.com",
+      "email": "mickey@soundwave.com",
       "password": "$2a$10$coLC8sY0n96mL5jtxbwZAe4Quy3ZvER.MbpiY66Uz4tVkjMHfd1FK",
       "id": 4
     },
     {
       "username": "Donald",
       "avatar": "https://randomuser.me/api/portraits/lego/7.jpg",
-      "email": "donald@edgify.com",
+      "email": "donald@soundwave.com",
       "password": "$2a$10$mk0kYR3mkOWzI/eh0eUfL.rpArDVdTVhZzhVVjv5V4NrBTsTFPaC2",
       "id": 5
     },
     {
-      "email": "prova@prova.com",
-      "password": "$2a$10$CNNMtKtxgPDNSLKIn.Ugse.wEHWwwPsBZQHv8UWsFYTs.MXh1sPJy",
+      "username": "Goofy",
+      "email": "goofy@soundwave.com",
+      "avatar": "https://randomuser.me/api/portraits/lego/8.jpg",
+      "password": "$2a$10$LODU9Y55icXKmcmgNYinfebEBZxpGHua9HwjBsUZg1XZNkiZXKhnK",
       "id": 6
     }
   ],
@@ -389,7 +391,7 @@
       "new": false,
       "favorite": true,
       "rating": 5,
-      "users": [4, 5],
+      "users": [4, 5, 6],
       "featuring": ["Toto", "Paul McCartney"]
     },
     {
@@ -422,7 +424,7 @@
       "new": false,
       "favorite": false,
       "rating": 5,
-      "users": [4],
+      "users": [4, 6],
       "featuring": ["George Michal"]
     },
     {
@@ -451,7 +453,7 @@
       "new": false,
       "favorite": true,
       "rating": 5,
-      "users": [2, 4],
+      "users": [4, 6],
       "featuring": ["David Gilmour", "Bob Ezrin"]
     },
     {
@@ -480,7 +482,7 @@
       "new": false,
       "favorite": true,
       "rating": 4,
-      "users": [2],
+      "users": [4, 6],
       "featuring": ["Billie Joe"]
     },
     {
@@ -508,7 +510,7 @@
       "new": true,
       "favorite": false,
       "rating": 3,
-      "users": [1, 5],
+      "users": [5, 6],
       "featuring": ["Zach Blair"]
     },
     {
@@ -537,7 +539,7 @@
       "new": false,
       "favorite": true,
       "rating": 5,
-      "users": [4, 5],
+      "users": [4, 5, 6],
       "featuring": ["Pontus Hjelm"]
     },
     {
@@ -568,7 +570,7 @@
       "new": true,
       "favorite": true,
       "rating": 2,
-      "users": [1, 3],
+      "users": [4, 5, 6],
       "featuring": ["Glen Campbell"]
     }
   ],
@@ -601,7 +603,7 @@
       "new": false,
       "favorite": false,
       "rating": 5,
-      "users": [4, 5],
+      "users": [4, 6],
       "featuring": ["Pink Floyd", "Nirvana", "Queen", "Led Zeppelin"]
     },
     {
@@ -632,7 +634,7 @@
       "new": false,
       "favorite": false,
       "rating": 5,
-      "users": [4, 5],
+      "users": [5, 6],
       "featuring": ["Kate Bush", "Europe", "Depeche Mode", "Cindy Lauper"]
     },
     {
@@ -663,7 +665,7 @@
       "new": false,
       "favorite": false,
       "rating": 5,
-      "users": [4, 5],
+      "users": [4, 6],
       "featuring": [
         "Blink 182",
         "Simple Plan",
@@ -699,7 +701,7 @@
       "new": false,
       "favorite": false,
       "rating": 5,
-      "users": [4, 5],
+      "users": [5, 6],
       "featuring": ["Lady Gaga", "Katy Perry", "Rihanna", "Britney Spears"]
     },
     {
@@ -730,7 +732,7 @@
       "new": false,
       "favorite": false,
       "rating": 5,
-      "users": [4, 5],
+      "users": [4, 6],
       "featuring": ["Metallica", "Iron Maiden", "Black Sabbath", "Led Zeppelin"]
     },
     {
@@ -763,7 +765,7 @@
       "new": false,
       "favorite": false,
       "rating": 5,
-      "users": [4, 5],
+      "users": [5, 6],
       "featuring": [
         "The Beach Boys",
         "Oasis",
