@@ -1,6 +1,8 @@
 {
   "users": [
     {
+      "username": "Random_User",
+      "avatar" : "https://www.winhelponline.com/blog/wp-content/uploads/2017/12/user.png",
       "email": "user@mail.com",
       "password": "$2a$10$ilr5RAveyOdQg3GSfDkec.0ekebu8VUwyb5feEAlFXZn9bSrNVcYa",
       "id": 1
