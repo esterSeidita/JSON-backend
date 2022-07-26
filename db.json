@@ -1,4 +1,15 @@
 {
+  "shopping-list":[
+    "id":1,
+    "userID":1,
+    "list":[
+    {
+    "name": "Product 1",
+    "description": "Something...",
+    "price": 123
+    }
+  ]
+    ],
   "users": [
     {
       "username": "Random_User",
