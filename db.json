@@ -1,16 +1,11 @@
 {
   "shopping-list":[
-    {
-      "id":1,
-      "userID":1,
-      "list":[
-        {
-        "name": "Product 1",
-        "description": "Something...",
+      {
+        "id":1,
+        "name": "My Product Name",
+        "description": "Some description...",
         "price": 123
-        }
-      ]
-    }
+     }    
   ],
   "users": [
     {
